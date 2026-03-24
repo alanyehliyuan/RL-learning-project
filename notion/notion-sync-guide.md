@@ -8,7 +8,7 @@ Notion 適合當學習控制台，而不是唯一教材來源。
 - 每個 module 的完成狀態
 - 卡住的概念
 - 自己的反思
-- 下一步要問 Iron Alan 的問題
+- 下一步要處理的問題
 
 ## Suggested database fields
 

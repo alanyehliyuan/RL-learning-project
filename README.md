@@ -1,6 +1,6 @@
 # RL Learning Project
 
-Alan 的 reinforcement learning 學習場，也是 Iron Alan 陪跑用的課程型 repo。
+A course-structured repository for learning reinforcement learning step by step.
 
 ## 這個 repo 的目標
 
